@@ -21,7 +21,7 @@ _Completar: qué conceptos del capítulo se van a explicar y qué se espera que 
 ```
 .
 ├── notebooks/
-│   ├── demo_<equipo>.ipynb        # Notebook demostrativo (15-25 min)
+│   ├── demo_<equipo>.ipynb        # Notebook demostrativo 
 │   └── ejercicios_<equipo>.ipynb  # Ejercicios guiados para el resto de la clase
 ├── slides/
 │   └── slides_<equipo>.pdf        # 3-5 láminas máx (ideas clave, gotchas, anti-patrones)
@@ -41,6 +41,7 @@ _Completar: qué conceptos del capítulo se van a explicar y qué se espera que 
 
 1. Usa este repo de template
 2. Trabajan como equipo dentro del repo --> siguiendo las prácticas y estrategias que definan en su alianza
+3. Equipo agrega las indicaciones pertinentes para uso del repo completo
 
 ## 🧩 Ejercicio para el resto de la clase
 
