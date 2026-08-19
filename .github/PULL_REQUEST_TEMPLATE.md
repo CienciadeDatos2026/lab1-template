@@ -8,3 +8,4 @@
 - [ ] No quedaron celdas con outputs viejos/inconsistentes
 - [ ] README actualizado si corresponde
 - [ ] Commit messages entendibles (nada de "fix", "asdf", "final v2 definitivo")
+- [ ] Tag que indica versión final - versión a corregir
